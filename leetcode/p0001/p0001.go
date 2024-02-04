@@ -17,9 +17,7 @@ func TwoSum(nums []int, target int) []int {
 		}
 
 		numsMap[num] = idx
-
 	}
 
 	return nil
-
 }

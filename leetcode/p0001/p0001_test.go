@@ -38,3 +38,15 @@ func TestP0001Case3(t *testing.T) {
 		t.Errorf("TwoSum(%v, %d) = %v, expected %v", nums, target, result, expected)
 	}
 }
+
+func TestP0001Case4(t *testing.T) {
+	nums := []int{2, 3, 1}
+	target := 6
+	expected := []int(nil)
+
+	result := TwoSum(nums, target)
+
+	if !reflect.DeepEqual(result, expected) {
+		t.Errorf("TwoSum(%v, %d) = %v, expected %v", nums, target, result, expected)
+	}
+}

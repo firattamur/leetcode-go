@@ -3,7 +3,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7bca3816a170439fb1efb4e84d330f8d)](https://app.codacy.com/gh/firattamur/leetcode-go/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![codecov](https://codecov.io/gh/firattamur/leetcode-go/graph/badge.svg?token=PNRQNBUZBQ)](https://codecov.io/gh/firattamur/leetcode-go)
 ![Go Version](https://img.shields.io/badge/go-1.21.4-blue.svg)
-![Easy Questions](https://img.shields.io/badge/Easy-1-green.svg)
+![Easy Questions](https://img.shields.io/badge/Easy-2-green.svg)
 ![Medium Questions](https://img.shields.io/badge/Medium-0-yellow.svg)
 ![Hard Questions](https://img.shields.io/badge/Hard-0-red.svg)
 

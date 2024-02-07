@@ -31,3 +31,13 @@ func TestP0014Case3(t *testing.T) {
 		t.Errorf("LongestCommonPrefix(%v) = %s, expected %s", strs, result, expected)
 	}
 }
+
+func TestP0014Case4(t *testing.T) {
+	strs := []string{}
+	expected := ""
+
+	result := LongestCommonPrefix(strs)
+	if result != expected {
+		t.Errorf("LongestCommonPrefix(%v) = %s, expected %s", strs, result, expected)
+	}
+}
